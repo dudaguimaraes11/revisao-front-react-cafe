@@ -449,15 +449,15 @@ function Home() {
 
                                     <div className="icones-redes">
 
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
                                             Instagram
                                         </a>
 
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                             Facebook
                                         </a>
 
-                                        <a href="#">
+                                        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
                                             YouTube
                                         </a>
 
